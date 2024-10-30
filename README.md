@@ -19,7 +19,7 @@ Mainly I use windows, but lately I have been testing Arch Linux with [GNOME](htt
 
 For software development I use [ Visual Studio Code](https://code.visualstudio.com/). with the [Spacegray VSCode](https://marketplace.visualstudio.com/items?itemName=ionutvmi.spacegray-vscode) (Spacegray Ocean Dark) theme and the [Material Icon](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) Theme icon pack with a minimal UI to help me maintain focus on the code.
 
-![image](https://github.com/user-attachments/assets/d0baebfb-b666-4ef6-b041-6a97c2b5b489)
+![image](https://github.com/user-attachments/assets/57baf83f-7500-462f-bc1a-37ac4f5a0f65)
 
 
 ### VS Code Extensions
