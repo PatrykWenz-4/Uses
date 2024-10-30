@@ -3,12 +3,12 @@ The hardware and software I use on a regular basis.
 
 ### Specs
 
-|                 |                                                          |
-| ----------------| ---------------------------------------------------------|
-| **CPU**         | AMD Ryzen™ 5 7600 (6 cores, 3.80-5.10 GHz, 38 MB cache)  |
-| **RAM**         | 2 × 16 GB DDR5 6000 MT/s                                 |
-| **Screen**      | 27" 2560 x 1440 144Hz                                    |
-| **Graphics Card | NVIDIA GeForce RTX 4070 Super                            |
+|                   |                                                          |
+| ------------------| ---------------------------------------------------------|
+| **CPU**           | AMD Ryzen™ 5 7600 (6 cores, 3.80-5.10 GHz, 38 MB cache)  |
+| **RAM**           | 2 × 16 GB DDR5 6000 MT/s                                 |
+| **Screen**        | 27" 2560 x 1440 144Hz                                    |
+| **Graphics Card** | NVIDIA GeForce RTX 4070 Super                            |
 
 Operating System
 ----------------
